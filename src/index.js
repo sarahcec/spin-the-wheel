@@ -1,5 +1,5 @@
 const sectors = [
-  { color: "#251ea8", text: "#333333", label: "Crispin" },
+  { color: "#251ea8", text: "#ffffff", label: "Crispin" },
   { color: "#9245ff", text: "#333333", label: "Dean" },
   { color: "#767676", text: "#333333", label: "Colton" },
   { color: "#FFffff", text: "#333333", label: "Monty" },
