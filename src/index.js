@@ -106,5 +106,5 @@ function init() {
 init();
 
 events.addListener("spinEnd", (sector) => {
-  console.log(`Woop! You won ${sector.label}`);
+  console.log(`${sector.label} won!`);
 });
